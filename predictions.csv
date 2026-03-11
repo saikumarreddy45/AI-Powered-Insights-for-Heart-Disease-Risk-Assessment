@@ -1,0 +1,2 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,name,probability,risk,notes
+55.0,1,0,130.0,246.0,0,1,150.0,0,1.0,1,0,2,John Doe,0.71,High,
